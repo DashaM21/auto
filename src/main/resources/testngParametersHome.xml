@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parameters Tests Suite">
+
+    <test name="Foxtrot Search Test">
+        <parameter name="searchWord" value="машина"/>
+        <classes>
+            <class name="task4.Task4"/>
+        </classes>
+    </test>
+
+</suite>
